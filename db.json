@@ -1,0 +1,19 @@
+{
+    "notes":[
+    {
+        "id": 1,
+        "desc": "css is nice",
+        "important": true
+      },
+      {
+        "id": 2,
+        "desc": "js is nice",
+        "important": false
+      },
+      {
+        "id": 3,
+        "desc": "react is nice",
+        "important": true
+      }
+]
+}
